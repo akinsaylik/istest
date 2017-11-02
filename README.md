@@ -1,2 +1,2 @@
 # istest
-isler programi test
+işler programı için hazırlanan test sistemi
